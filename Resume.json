@@ -1,0 +1,118 @@
+{
+    "basics": {
+        "name": "Harsh Agarwal",
+        "label": "Student",
+        "picture":"https://avatars.githubusercontent.com/u/104144880?s=400&u=6fcc3449a7aee74bdc79dd775d3ea3515fc14293&v=4",
+        "email": "2021kucp1011@iiitkota.ac.in",
+        "phone": "8005800010",
+        "summary": "I'm a First Year student studying at Indian Institute of Information technology,Kota (India), pursuing my B.Tech in Computer Science & engineering.Trying to Fill my Arsenal by Learning new skills day by day and enjoying Campus Life.",
+        "location": {
+            "address": "Jaipur",
+            "postalCode": "302012",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "i_harshu_",
+                "url": "https://twitter.com/i_harshu_"
+            },
+            {
+                "network": "Github",
+                "username": "Harsh-00",
+                "url": "https://github.com/Harsh-00"
+            },
+            {
+                "network": "linkedin",
+                "username": "iharsh-agarwal",
+                "url": "https://www.linkedin.com/in/iharsh-agarwal/"
+            },
+            {
+                "network": "Instagram",
+                "username": "_i_harsh_",
+                "url": "https://www.instagram.com/_i_harsh_/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Still Studying",
+            "position": "No Work Experience Till Date",
+   
+        },
+  
+    
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "B.Tech",
+            "startDate": "2021",
+            "endDate": "2025",
+            "gpa": "7.5",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "14320 Rank in JEE Mains",
+            "awarder": "",
+            "date": ""
+        }
+ {
+            "title": "1st Position in District Level Swimming Competition",
+            "awarder": "",
+            "date": ""
+        }
+
+    ],
+    "publications": [
+        {
+            "title": "None Yet",
+            
+                    },
+           ],
+    "skills": [
+        {
+            "name": "Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++",
+                "Git"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English, Hindi",
+            "fluency": "Native Hindi"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Football"
+                "Swimming"
+                "Badminton"
+            ]
+        },
+        {
+            "name": "Adventures",
+            "keywords": [
+                "Outing",
+                "Trips"
+                "sightseeing"
+            ]
+        }
+    ]
+}
+
